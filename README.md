@@ -19,7 +19,7 @@
 <div>
    <a href="https://github.com/ikishimadu">
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikishimadu&layout=compact&theme=tokyonight)](https://github.com/ikishimadu)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikishimadu&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikishimadu&layout=compact&theme=tokyonight)](https://github.com/ikishimadu)
 </div>
  
  <h2>Technologies</h2>
